@@ -68,7 +68,7 @@ FIREBASE_PRIVATE_KEY=
 
 🔐 Replace the placeholders with your actual Firebase, Google Gemini, and Vapi credentials.
 
-un the Project
+Run the Project
 npm run dev
 
 
